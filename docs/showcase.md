@@ -1,6 +1,6 @@
 # Showcase reviews
 
-![Showcase reviews](../assets/showcase.png)
+![Showcase reviews](assets/showcase.png)
 
 Review Collect distributes your reviews on Google, Trustpilot and marketplaces, and syndicates them to your product pages, where you need them most.
 

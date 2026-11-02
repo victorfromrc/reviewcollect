@@ -1,6 +1,6 @@
 # Collect reviews
 
-![Collect reviews](../assets/collect.png)
+![Collect reviews](assets/collect.png)
 
 Review Collect sends review requests by email, SMS, native WhatsApp and QR code, synced with delivery tracking. You collect product reviews, merchant reviews and photos.
 

@@ -1,6 +1,6 @@
 # Manage reviews
 
-![Manage reviews](../assets/manage.png)
+![Manage reviews](assets/manage.png)
 
 Review Collect helps you answer reviews and follow up with customers who need help.
 

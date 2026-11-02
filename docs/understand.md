@@ -1,6 +1,6 @@
 # Understand your reputation
 
-![Understand your reputation](../assets/understand.png)
+![Understand your reputation](assets/understand.png)
 
 Review Collect centralizes all your platforms in one dashboard, so you can see what customers say and act on it.
 

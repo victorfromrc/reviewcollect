@@ -2,7 +2,7 @@
 
 Review Collect helps e-commerce and multichannel brands turn their e-reputation into a growth lever.
 
-![Review Collect overview](assets/overview.png)
+![Review Collect overview](docs/assets/overview.png)
 
 It brings every reputation mechanism into one tool: **collect** reviews, **manage** them, **showcase** them where they matter, and **understand** what they say.
 
